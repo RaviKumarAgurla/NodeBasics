@@ -1,0 +1,11 @@
+{
+  "name": "ravicalci",
+  "version": "1.0.0",
+  "description": "first npm package by ravi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ravikumaragurla",
+  "license": "ISC"
+}
